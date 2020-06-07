@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VoicemodChat": {
+      "commandName": "Project",
+      "commandLineArgs": "1234"
+    }
+  }
+}
